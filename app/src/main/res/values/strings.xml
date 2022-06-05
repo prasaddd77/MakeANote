@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Make A Note</string>
+
+    <string name="notes_title">NOTES APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home_fragment">Home Fragment</string>
+    <string name="title">Title</string>
+    <string name="write_a_note_here">Write a Note Here</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="random">skwoenfowinornonroenrg onvokvlwkenl wknelkenrlvkenlrvknelrknlekrnlekrnvlekrnvl kenrlkenvrlkenrlvkne</string>
+    <string name="_23_april_2002">23 April 2002</string>
+    <string name="are_you_sure_you_want_to_n_delete_this_note">Are you sure you want to \n delete this note?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="delete">Delete</string>
+    <string name="search">Search</string>
+</resources>
